@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+/src/myvenv/
+/src/db.sqlite3
+/src/core
