@@ -1,6 +1,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-/src/myvenv/
+/src/venv/
 /src/db.sqlite3
 /src/core
