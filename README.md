@@ -10,8 +10,8 @@ You can run development server from command line or from a docker-compose system
 
 ```bash
 cd src
-python3 -m venv myvenv
-source myvenv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements_dev.txt
 python manage.py runserver
 ```
